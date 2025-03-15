@@ -10,4 +10,4 @@
 </p>
 
 
-<p>&nbsp; <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbash&" alt="vitorbash" /> </p>
+<p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbash&" alt="vitorbash" /> </p>
