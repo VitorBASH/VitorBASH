@@ -1,4 +1,4 @@
 ## 🌍Olá mundo! 👋
 - 🐧 Estudando Linux...
 - 🤫 shh! Usuário de Linux está criando uma pasta!
-- 🐵 Pronomes: 010011101001
+- 🐵 Pronomes: 01001110 00101111 01000001
