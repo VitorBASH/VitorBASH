@@ -6,8 +6,3 @@
 - 🤝 Estou procurando ajuda com **a minha vida.**
 
 - ⚡ Curiosidade engraçada **Quanto mais estudo menos sei.**
-
-</p>
-
-
-<p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbash&" alt="vitorbash" /> </p>
